@@ -1,2 +1,2 @@
-# Sistema_Bancario_DIO
+# Sistema Bancario DIO
 Projeto de um Sistema Bancário usando Python.
